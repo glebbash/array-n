@@ -1,7 +1,13 @@
 # array-n
 Create multidimensional arrays in javascript
 
-## usage
+## Installation
+
+```bash
+npm install array-n
+```
+
+## Usage
 
 ```ts
 import { array } from "array-n"
